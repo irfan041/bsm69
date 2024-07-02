@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.test.CaseConverterTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.052 sec <<< FAILURE!
+com.test.CaseConverterTest.testConvertCase()  Time elapsed: 0.051 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.CaseConverter.convertCase(String)" because "this.c1" is null
+	at com.test.CaseConverterTest.testConvertCase(CaseConverterTest.java:22)
+
+com.test.CaseConverterTest.testConvertCase5()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.CaseConverter.convertCase(String)" because "this.c1" is null
+	at com.test.CaseConverterTest.testConvertCase5(CaseConverterTest.java:37)
+
+com.test.CaseConverterTest.testConvertCase6()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.CaseConverter.convertCase(String)" because "this.c1" is null
+	at com.test.CaseConverterTest.testConvertCase6(CaseConverterTest.java:42)
+
+com.test.CaseConverterTest.testConvertCase2()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.CaseConverter.convertCase(String)" because "this.c1" is null
+	at com.test.CaseConverterTest.testConvertCase2(CaseConverterTest.java:27)
+
+com.test.CaseConverterTest.testConvertCase3()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.CaseConverter.convertCase(String)" because "this.c1" is null
+	at com.test.CaseConverterTest.testConvertCase3(CaseConverterTest.java:32)
+

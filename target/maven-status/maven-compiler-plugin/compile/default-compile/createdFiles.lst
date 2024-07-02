@@ -1,0 +1,9 @@
+com\demo\CaseConverter.class
+com\demo\inject\Service.class
+com\demo\parametrize\Parametrize.class
+com\demo\StaticUtils.class
+com\demo\inject\SMSService.class
+com\demo\NumberCalculation.class
+com\demo\inject\ApiService.class
+com\demo\inject\EmailService.class
+com\demo\TestVoidMethod.class

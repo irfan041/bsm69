@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.test.StaticUtilTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec <<< FAILURE!
+com.test.StaticUtilTest.testPrivateMethod()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.StaticUtils.getTest(String)" because "this.staticUtils" is null
+	at com.test.StaticUtilTest.testPrivateMethod(StaticUtilTest.java:29)
+
